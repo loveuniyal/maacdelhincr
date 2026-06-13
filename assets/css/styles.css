@@ -1047,7 +1047,7 @@ em.serif { font-family: var(--display); font-style: italic; font-weight: 500; }
   margin-bottom: 30px;
 }
 
-/* Stats, Tools, Highlight, CTA boxes inside article (reused from user template styling but integrated) */
+/* Article Components: Stats, Tools, Highlights, and CTA Blocks */
 .stat-strip {
   background: var(--ink);
   border-radius: var(--radius);
